@@ -10,9 +10,13 @@ My name is Snehal Bhale and I am doing enggneering in Computer. I've done certai
 
 ## Functions :
 1)Add new inventory
+
 2)Show Inventory
+
 3)Updating product quantity & price.
+
 4)Purchase
+
 5)Sales
 
 ## My Handles:
