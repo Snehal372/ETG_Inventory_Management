@@ -1,5 +1,5 @@
 # ETG_Inventory_Management
-This project is about Inventory Management System for "Grocery". You can experience certain features like: Bills, Add &amp; Show new inventory, Updating product price &amp; Quantity etc.
+This project is about Inventory Management System for "Grocery". I've added certain features like: Bills, Add &amp; Show new inventory, Updating product price &amp; Quantity etc.
 
 ## About the Repository?
 You'll learn Python,Java & MySQL, Data Structure, Data Handling, File Handling, JSON, Numpy, Pandas, Data Visualizations, Data Analysis and AI Algorithms to make Breast Cancer Detection.
