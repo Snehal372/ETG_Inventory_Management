@@ -8,6 +8,13 @@ Also how you can add new items to inventory, Show the list, Updating product pri
 ## Who am I?
 My name is Snehal Bhale and I am doing enggneering in Computer. I've done certain courses like:- Python Basic &Advance ,MySQL Basic and Ethical Hacking and currently doing internship with ETG on Python for AI/ML.
 
+## Functions :
+1)Add new inventory
+2)Show Inventory
+3)Updating product quantity & price.
+4)Purchase
+5)Sales
+
 ## My Handles:
 LinkedIn - https://www.linkedin.com/in/snehal-bhale-81b64b205/
 
